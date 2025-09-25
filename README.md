@@ -18,7 +18,41 @@ I am particularly interested in:
 ---
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
-
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td>
+         <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,java"/>
+         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,ts"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws,"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=postgresql,firebase,sqlite"/>
+            <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
+    </tr>
+   <tr>
+       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
+       <td>
+           <img height="40" src="https://skillicons.dev/icons?i=unity" title="Unity"/>
+           <img height="40" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+       </td>
+   </tr>
+</table>
 
 
 ---
