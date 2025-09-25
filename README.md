@@ -34,7 +34,7 @@ I am particularly interested in:
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase"/>
+            <img height="40" src="https://skillicons.dev/icons?i=postgresql,firebase,sqlite"/>
             <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
         </td>
     </tr>
