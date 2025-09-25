@@ -53,9 +53,4 @@ I am particularly interested in:
 
 ---
 
-## 🔗 Let's Connect
 
-I would love to connect with you!  
-- Email: ovidiotaleno@gmail.com  
-
----
