@@ -46,6 +46,14 @@ I am particularly interested in:
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
     </tr>
+   <tr>
+       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
+       <td>
+           <img height="40" src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+           <img height="40" src="https://skillicons.dev/icons?i=unity" title="Unity"/>
+           <img height="40" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+       </td>
+   </tr>
 </table>
 <br>
 
