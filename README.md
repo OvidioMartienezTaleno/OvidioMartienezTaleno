@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ovidio Taleno!
 
 🎓 Computer Engineering Student | 🇨🇷 Tecnológico de Costa Rica (TEC)  
-🌍 Costa Rica  
+ 
 
 ---
 
