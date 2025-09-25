@@ -48,8 +48,10 @@ I am particularly interested in:
 ---
 
 ## 📊 GitHub Stats
+<div vertical-align: center>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&theme=dark)](https://github.com/tu_usuario)
+ <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&theme=dark)](https://github.com/tu_usuario)
 
 ---
 
