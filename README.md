@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ovidio Taleno!
+# Hi 👋, I'm Ovidio Martínez!
 
 🎓 Computer Engineering Student | 🇨🇷 Tecnológico de Costa Rica (TEC)  
  
