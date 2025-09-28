@@ -60,7 +60,6 @@ I am particularly interested in:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&theme=dark)](https://github.com/OvidioMartienezTaleno)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&theme=dark)](https://github.com/OvidioMartienezTaleno)
 
 ---
 
