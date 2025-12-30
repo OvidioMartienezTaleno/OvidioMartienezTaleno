@@ -65,12 +65,5 @@ I am particularly interested in:
 
 ---
 
-### 🌐 Socials
-<p align="left">
-<a href="https://github.com/OvidioMartienezTaleno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OvidioMartienezTaleno" height="30" width="40" /></a>
-</p>
-
-### 💻 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,java,cs,react,html,css,js,ts,aws,postgres,firebase,sqlite,vscode&theme=dark)
 
 
