@@ -59,11 +59,9 @@ I am particularly interested in:
 ## 📊 GitHub Stats
 
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&theme=dark)
-
-![Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=OvidioMartienezTaleno&show_icons=true&theme=dark)
+## 🛠️ Stack & Stats
+![Repo Count](https://img.shields.io/github/directory-stats/count/OvidioMartienezTaleno?style=flat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/OvidioMartienezTaleno?style=social)
 ---
 
 
