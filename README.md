@@ -59,9 +59,11 @@ I am particularly interested in:
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&theme=dark)
+
+![Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=OvidioMartienezTaleno&show_icons=true&theme=dark)
 ---
 
 
