@@ -59,9 +59,18 @@ I am particularly interested in:
 ## 📊 GitHub Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&theme=dark&cache_seconds=1800)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OvidioMartienezTaleno&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
+
+### 🌐 Socials
+<p align="left">
+<a href="https://github.com/OvidioMartienezTaleno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OvidioMartienezTaleno" height="30" width="40" /></a>
+</p>
+
+### 💻 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,java,cs,react,html,css,js,ts,aws,postgres,firebase,sqlite,vscode&theme=dark)
 
 
