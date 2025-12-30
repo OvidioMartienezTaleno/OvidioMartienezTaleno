@@ -58,7 +58,7 @@ I am particularly interested in:
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&theme=dark)](https://github.com/OvidioMartienezTaleno)
+![GitHub Metrics](https://metrics.lecoq.io/OvidioMartienezTaleno?template=classic&languages=1&language_limit=6&languages_colors=github&languages_sections=most-used&theme=dark)
 
 
 ---
