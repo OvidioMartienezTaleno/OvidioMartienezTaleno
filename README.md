@@ -51,7 +51,6 @@ I am particularly interested in:
            <img height="40" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
            <img height="40" src="https://skillicons.dev/icons?i=unity" title="VS Code"/>
            <img height="40" src="https://skillicons.dev/icons?i=androidstudio" title="VS Code"/>
-        <td>
    </tr>
 </table>
 
