@@ -67,19 +67,21 @@ I am particularly interested in:
 
 ---
 
-<br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OvidioMartienezTaleno&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+<!-- GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/OvidioMartienezTaleno">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OvidioMartienezTaleno&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OvidioMartienezTaleno&layout=compact&langs_count=12&theme=algolia"/>
+  </a>
+</p>
 
-<br/>
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OvidioMartienezTaleno&theme=algolia"/>
+</p>
 
-
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OvidioMartienezTaleno&theme=algolia&row=1&column=6"/>
+</p>
