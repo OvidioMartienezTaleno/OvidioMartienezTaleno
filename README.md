@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Ovidio Martínez!
 
-🎓 Computer Engineering Student | 🇨🇷 Tecnológico de Costa Rica (TEC)  
+🎓 Computer Engineering Student | Tecnológico de Costa Rica (TEC)  
  
 
 ---
