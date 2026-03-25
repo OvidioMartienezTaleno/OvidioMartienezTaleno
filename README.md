@@ -1,11 +1,11 @@
-## Hi 👋, I'm Ovidio Martínez!
+## Hi there, I'm Ovidio Martínez!
 
-🎓 Computer Engineering Student | Tecnológico de Costa Rica (TEC)  
+Computer Engineering Student | Tecnológico de Costa Rica (TEC)  
  
 
 ---
 
-## 📌 About Me
+## About Me
 
 I am currently studying Computer Engineering, a field that fascinates me, especially in programming. I enjoy learning new programming languages and creating projects that solve problems or simply allow me to explore new technologies. This has helped me develop technical skills and an analytical mindset.
 
@@ -19,7 +19,7 @@ I am particularly interested in:
 ### [My Portfolio](https://portafolio-main-iota.vercel.app/)
 ---
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2> Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -58,7 +58,7 @@ I am particularly interested in:
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics
 
 <table align="center">
   <tr>
