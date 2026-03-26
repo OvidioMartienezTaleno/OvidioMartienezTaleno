@@ -76,4 +76,4 @@ I am particularly interested in:
 </table>
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=OvidioMT&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OvidioMT&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
